@@ -193,3 +193,6 @@ This repository serves as the official landing page for Splasher. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Splasher today!**
+
+---
+**Last updated:** 2026-11-07 17:58:41 UTC
